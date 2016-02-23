@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni00plutgoog_0290.png"; bbox 0 0 2302 4304; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3 1186 870 1567">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3 1186 870 1567">
+     <span class='ocr_line' id='line_1_1' title="bbox 3 1186 806 1336; baseline -0.004 -2"><span class='ocrx_word' id='word_1_1' title='bbox 3 1224 4 1228; x_wconf 7' lang='grc' dir='ltr'><em>Ὗ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 169 1245 231 1336; x_wconf 70' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_3' title='bbox 320 1186 806 1334; x_wconf 74' lang='lat' dir='ltr'>T1JLL11¹</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 53 1428 870 1567; baseline 0 -28"><span class='ocrx_word' id='word_1_4' title='bbox 53 1428 870 1567; x_wconf 63' lang='lat' dir='ltr'>clchRoN1s</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2 1641 940 2275">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2 1641 940 2079">
+     <span class='ocr_line' id='line_1_3' title="bbox 198 1641 499 1705; baseline -0.003 0"><span class='ocrx_word' id='word_1_5' title='bbox 198 1681 203 1691; x_wconf 90' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 423 1641 499 1705; x_wconf 73' lang='lat' dir='ltr'>DE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2 1743 940 1935; baseline 0.004 -38"><span class='ocrx_word' id='word_1_7' title='bbox 2 1743 940 1935; x_wconf 59' lang='lat' dir='ltr'>:LARISORATORIBUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 339 2003 565 2079; baseline 0.013 -3"><span class='ocrx_word' id='word_1_8' title='bbox 339 2003 565 2079; x_wconf 85' lang='lat' dir='ltr'>LIBER</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 181 2192 662 2275">
+     <span class='ocr_line' id='line_1_6' title="bbox 181 2192 662 2275; baseline 0.004 -19"><span class='ocrx_word' id='word_1_9' title='bbox 181 2210 183 2215; x_wconf 54' lang='lat'>&gt;</span> <span class='ocrx_word' id='word_1_10' title='bbox 264 2194 361 2275; x_wconf 81' lang='lat' dir='ltr'>Qu1</span> <span class='ocrx_word' id='word_1_11' title='bbox 409 2192 662 2258; x_wconf 66' lang='lat' dir='ltr'>memus&lt;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 105 2373 788 2529">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 105 2373 788 2529">
+     <span class='ocr_line' id='line_1_7' title="bbox 105 2373 788 2529; baseline 0.006 -41"><span class='ocrx_word' id='word_1_12' title='bbox 105 2373 788 2529; x_wconf 43' lang='lat' dir='ltr'><strong>&amp;RUTUs</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1156 4304">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1156 4304">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1156 4304; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1156 4304; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
